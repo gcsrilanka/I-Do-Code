@@ -1,15 +1,10 @@
 {
-  "name": "node-helloworld",
+  "name": "hello-world",
   "version": "1.0.0",
   "description": "Hello World with Node.js",
   "main": "index.js",
+  "private": true,
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "codeSmart2307",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
+    "start": "node index.js"
   }
 }
