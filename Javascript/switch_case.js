@@ -1,6 +1,6 @@
 let color = "gray";
 
-// Randome number from 0 to 5
+// Random number from 0 to 5
 const random  = Math.floor(Math.random() * 6);
 
 switch(random) {
