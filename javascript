@@ -1,23 +1,33 @@
-switch (new Date().getDay()) 
-{
-    case 0:
-        day = "Sunday";
-        break;
-    case 1:
-        day = "Monday";
-        break;
-    case 2:
-        day = "Tuesday";
-        break;
-    case 3:
-        day = "Wednesday";
-        break;
-    case 4:
-        day = "Thursday";
-        break;
-    case 5:
-        day = "Friday";
-        break;
-    case 6:
-        day = "Saturday";
-}
+<html>
+   <body>
+   
+      <script type="text/javascript">
+         <!--
+            var grade='A';
+            document.write("Entering switch block<br />");
+            switch (grade)
+            {
+               case 'A': document.write("Good job<br />");
+               break;
+            
+               case 'B': document.write("Pretty good<br />");
+               break;
+            
+               case 'C': document.write("Passed<br />");
+               break;
+            
+               case 'D': document.write("Not so good<br />");
+               break;
+            
+               case 'F': document.write("Failed<br />");
+               break;
+            
+               default:  document.write("Unknown grade<br />")
+            }
+            document.write("Exiting switch block");
+         //-->
+      </script>
+      
+      <p>Set the variable to different value and then try...</p>
+   </body>
+</html>
