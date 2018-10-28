@@ -1,2 +1,5 @@
-// hello world
-console.log("hello world!!");
+const arr = (text) => {
+  console.log(`${text}`);
+}
+
+arr("hello world");
