@@ -1,1 +1,6 @@
-console.log("Hello TypeScript");
+/**
+ * Hello World in TypeScript
+ */
+
+ let message = "Hello World! TypeScript"
+console.log(message);
