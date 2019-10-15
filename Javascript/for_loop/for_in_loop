@@ -1,0 +1,5 @@
+const numbers = {a:1, b:2, c:3, d:4, e:5}
+
+for (const key of numbers) {
+    console.log(key + ':' + numbers[key])
+}
