@@ -1,12 +1,12 @@
 using System;
 
-namespace HelloWorld 
+namespace Hacktoberfest 
 {
-    class HelloWorld
+    class Hacktoberfest
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hacktoberfest!");
             Console.ReadKey()
         }
     }
