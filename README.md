@@ -1,7 +1,7 @@
 ![header](https://raw.githubusercontent.com/GitHubExperts-LK/My-First-PR/master/resources/cover.jpeg)
 
 # What is Hacktoberfest?
-Hacktoberfest is a program by Digital Ocean and Github, Contributors Find an issue labeled Hacktoberfest to find projects that are actively involved and welcoming PRs, alsp this global competition allows you to easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github. 
+Hacktoberfest is a program by Digital Ocean and Github, Contributors Find an issue labeled Hacktoberfest to find projects that are actively involved and welcoming PRs, alsp this global competition allows you to easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github. ,,,/.,
 
 ## Steps to follow :scroll:
 
@@ -27,3 +27,4 @@ by checking our `Help Wanted` issues and creating [pull requests](https://github
 ### 5. Give this Project a Star :star:
 
 If you liked working on this project, please share this project as much 
+
