@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 onclick="this.innerHTML='You dont need to tap me !'">Tap me!</h1>
+
+<p>Tap me to display the date.</p>
+
+<button onclick="displayDate()">The time is?</button>
+
+<script>
+function displayDate() {
+  document.getElementById("demo").innerHTML = Date();
+}
+</script>
+
+<p id="demo"></p>
+
+</body>
+</html>
