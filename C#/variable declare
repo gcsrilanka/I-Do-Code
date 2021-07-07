@@ -1,0 +1,4 @@
+string message;
+
+// value can be assigned after it declared 
+message = "Hello World!!";

@@ -1,0 +1,4 @@
+float simpleInterest; //Declaring float variable
+int time = 10, speed = 20; //Declaring and Initializing integer variable
+char var = 'h'; // Declaring and Initializing character variable
+
